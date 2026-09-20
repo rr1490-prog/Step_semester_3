@@ -1,3 +1,26 @@
+## Date: 20-09-2026
+
+**Today's Work:**
+- Completed Week 2 Day 2 live-coding problems:
+  - Vowel & Consonant Counter
+  - CSV Student Record Parser
+  - File Extension Validator
+  - Masked Phone Number Formatter
+  - Bank Transaction Reference Generator & Validator
+- Completed Week 2 assignment problems:
+  - ATM PIN Length Validator
+  - Word Reversal Encoder
+  - Product Inventory CSV Parser
+  - Library ISBN Normalizer & Validator
+  - Stop-Word-Filtered Word Frequency Report
+- Compiled all 10 Java programs successfully.
+- Pushed work to feature/session_2.
+
+**Next Session Plan:**
+- Continue with the next session's Java problems.
+
+**Issues Faced:**
+- No major issues.
 ## Date: 19-09-2026
 
 **Today's Work:**
