@@ -1,6 +1,29 @@
 ## Date: 20-09-2026
 
 **Today's Work:**
+- Completed Session 4: Array Problems.
+- Solved 5 class problems:
+  - Two Sum
+  - Best Time to Buy and Sell Stock
+  - Contains Duplicate
+  - Merge Two Sorted Arrays
+  - Rotate Array
+- Solved 5 assignment problems:
+  - Product of Array Except Self
+  - Maximum Subarray
+  - 3Sum
+  - Subarray Sum Equals K
+  - Find Minimum in Rotated Sorted Array
+- Compiled all 10 Java programs successfully.
+
+**Next Session Plan:**
+- Continue with the next assigned topic and problems.
+
+**Issues Faced:**
+- No major issues. All programs compiled successfully.
+## Date: 20-09-2026
+
+**Today's Work:**
 - Completed Week 2 Day 2 live-coding problems:
   - Vowel & Consonant Counter
   - CSV Student Record Parser
