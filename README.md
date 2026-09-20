@@ -1,6 +1,31 @@
 ## Date: 20-09-2026
 
 **Today's Work:**
+- Completed Session 5: OOP Fundamentals.
+- Solved 5 class problems:
+  - Hackathon Score Curve Booster
+  - Duplicate Team Name Finder
+  - Top-3 Podium Finder
+  - Hackathon Seating Grid Optimizer
+  - Placement Drive Shortlisting & Ranking Engine
+- Solved 5 assignment problems:
+  - Fantasy Team Score Multiplier
+  - Duplicate Player Pick Checker
+  - Top Performer Tracker
+  - Match Day Grid Analyzer
+  - Fantasy League Auto-Draft Ranking Engine
+- Compiled all 10 Java programs successfully.
+
+**Next Session Plan:**
+- Continue with the next assigned topic and problems.
+
+**Issues Faced:**
+- The feature branch required upstream configuration during the first push.
+- Resolved using git push --set-upstream origin feature/session_5.
+- All programs compiled successfully.
+## Date: 20-09-2026
+
+**Today's Work:**
 - Completed Session 4: Array Problems.
 - Solved 5 class problems:
   - Two Sum
