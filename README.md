@@ -1,3 +1,16 @@
+## Date: 21-09-2026
+
+**Today's Work:**
+- Completed Session 6 OOP Fundamentals.
+- Completed 5 class problems and 5 assignment problems.
+- Practiced constructors, constructor overloading, encapsulation, object references, and static members.
+- Created and compiled all Java programs.
+
+**Next Session Plan:**
+- Continue with the next assigned programming problems.
+
+**Issues Faced:**
+- Employee.java was already used in Assignment M3, so M5 was saved as CompanyEmployee.java to avoid a class-name conflict.
 ## Date: 20-09-2026
 
 **Today's Work:**
