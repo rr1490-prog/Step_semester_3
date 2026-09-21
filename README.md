@@ -1,6 +1,19 @@
 ## Date: 21-09-2026
 
 **Today's Work:**
+- Completed Session 7 Encapsulation & Access Control.
+- Completed 5 class problems and 5 assignment problems.
+- Practiced private fields, final fields, encapsulation, defensive copying, immutability, validation, and controlled state changes.
+- Created and compiled all Java programs.
+
+**Next Session Plan:**
+- Continue with the next assigned programming problems.
+
+**Issues Faced:**
+- No major issues.
+## Date: 21-09-2026
+
+**Today's Work:**
 - Completed Session 6 OOP Fundamentals.
 - Completed 5 class problems and 5 assignment problems.
 - Practiced constructors, constructor overloading, encapsulation, object references, and static members.
