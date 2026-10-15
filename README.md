@@ -1,3 +1,9 @@
+### 15-10-2026 — Session 9: SOLID Principles
+
+- Completed 5 class problems and 5 assignment problems.
+- Practiced abstract classes, inheritance, method overriding, runtime polymorphism, and shared constants.
+- Implemented area calculation, weekly payroll, library fines, electricity billing, and travel booking.
+- Pushed solutions to GitHub on `feature/session_9`.
 ## Date: 21-09-2026
 
 **Today's Work:**
